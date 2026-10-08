@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01041709395&label=Profile%20views&color=0e75b6&style=flat" alt="01041709395" /> </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Project:</h3>
 <p align="left">
 </p>
 
